@@ -1,1 +1,1 @@
-# project_starter_kit
+# datastore_demo_starter_code
